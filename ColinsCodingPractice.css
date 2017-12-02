@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: yellow;
+  font-family: 'Raleway', sans-serif;
+
+}
+p, ul, li {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+
+}
